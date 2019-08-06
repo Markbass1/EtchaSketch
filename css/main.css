@@ -23,7 +23,3 @@ div {
     float: none;
     background-color: white;
 }
-
-.square-block:hover {
-    background-color: black;
-}
